@@ -1,0 +1,1 @@
+Server=DESKTOP-29G0793\JMVSQLEXPRESS;Database=GoodWithPeopleDB;Integrated Security=SSPI;persist security info=True;
